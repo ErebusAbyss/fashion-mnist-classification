@@ -2,3 +2,9 @@ venv/
 *.pyc
 *.ipynb_checkpoints/
 __pycache__/
+tuner_dir/
+*.h5
+*.keras
+*model*
+*.pyo
+*.log
